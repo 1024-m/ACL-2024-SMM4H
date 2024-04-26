@@ -1,2 +1,4 @@
 # SMM4H-2024    
-Task 3 , 4 , 5 , 6     
+Task 3 , 5 , 6     
+
+# REVOKE BOTH API TOKENS BEFORE MAKING THIS REPO PUBLIC
